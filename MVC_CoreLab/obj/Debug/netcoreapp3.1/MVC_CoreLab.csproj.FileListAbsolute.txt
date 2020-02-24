@@ -110,3 +110,7 @@ C:\Users\coronele\source\repos\MVC_CoreLab\MVC_CoreLab\obj\Debug\netcoreapp3.1\R
 C:\Users\coronele\source\repos\MVC_CoreLab\MVC_CoreLab\obj\Debug\netcoreapp3.1\Razor\Views\Mileage\MileageResult.cshtml.g.cs
 C:\Users\coronele\source\repos\MVC_CoreLab\MVC_CoreLab\obj\Debug\netcoreapp3.1\Razor\Views\AddTheseNumbers\ResultSum.cshtml.g.cs
 C:\Users\coronele\source\repos\MVC_CoreLab\MVC_CoreLab\obj\Debug\netcoreapp3.1\Razor\Views\AddTheseNumbers\FormSum.cshtml.g.cs
+C:\Users\coronele\source\repos\MVC_CoreLab\MVC_CoreLab\obj\Debug\netcoreapp3.1\Razor\Views\Division\DivForm.cshtml.g.cs
+C:\Users\coronele\source\repos\MVC_CoreLab\MVC_CoreLab\obj\Debug\netcoreapp3.1\Razor\Views\Division\DivResults.cshtml.g.cs
+C:\Users\coronele\source\repos\MVC_CoreLab\MVC_CoreLab\obj\Debug\netcoreapp3.1\Razor\Views\MadLibs\MLForm.cshtml.g.cs
+C:\Users\coronele\source\repos\MVC_CoreLab\MVC_CoreLab\obj\Debug\netcoreapp3.1\Razor\Views\MadLibs\MLComplete.cshtml.g.cs

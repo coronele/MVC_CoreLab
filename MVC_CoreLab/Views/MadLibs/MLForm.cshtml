@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "Enter some words!";
+}
+
+<h1>Let's make a short story!</h1>
+
+<form action="../Madlibs/MLComplete" method="post">
+    <div>
+        <label>Please enter a name</label>
+        <input type="text" name="name" />
+    </div>
+    <div>
+        <label>Present tense verb (transport)</label>
+        <input type="text" name="transport" />
+    </div>
+    <div>
+        <label>Name of city</label>
+        <input type="text" name="city" />
+    </div>
+    <div>
+        <label>Time of day </label>
+        <input type="text" name="timeofday" />
+    </div>
+    <div>
+        <label>Course/Class name </label>
+        <input type="text" name="classname" />
+    </div>
+    <div>
+        <label>Emotion </label>
+        <input type="text" name="emotion" />
+    </div>
+    <div>
+        <label>Please enter an adverb (ends in -ly) </label>
+        <input type="text" name="adverb" />
+    </div>
+    <div>
+        <label>Please enter an adjective </label>
+        <input type="text" name="adjective" />
+    </div>
+    <div>
+        <label>Exclamation! </label>
+        <input type="text" name="exclamation" value="" />
+    </div>
+    <div>
+        <input type="submit" value="Make a story!" />
+    </div>
+</form>
