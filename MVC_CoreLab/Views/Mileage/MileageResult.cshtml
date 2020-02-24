@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Result";
+}
+
+@{ Mileage mileage = Model; }
+
+<h1>Mileage Result</h1>
+
+At @mileage.Gallons gallons remaining and @mileage.Mpg mpg, 
+you can travel @mileage.RemainingRange() more miles.
+
+If you're traveling @mileage.Distance more miles,
+@if (mileage.EnoughGas())
+{
+    <p style="color:green">you have enough gas.</p>
+}
+else
+{
+    <p style="color:red">you need more gas.</p>
+}
+
